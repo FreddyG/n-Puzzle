@@ -4,4 +4,4 @@ studentnummer: 10287302
 *********************
 
 
-n-Puzzle app
+# n-Puzzle app
